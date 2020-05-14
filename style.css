@@ -8,17 +8,13 @@ html {
     html { 
         background: url(header.jpg) no-repeat center center fixed;
         background-size: cover ;
-        
     }
 
 h1{
-    /* display: flex;
     
-    color: white;
-    justify-content: center ; */
     font-size: 3rem;
-    color: white;
-    text-transform: uppercase;
+    color: BLACK;
+    /* text-transform: uppercase; */
     
 }
 
