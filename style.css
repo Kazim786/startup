@@ -45,6 +45,12 @@ button{
     cursor: pointer;
 }
 
+hr{
+    max-width: 65px;
+    border-color: #F05F44;
+    border-width: 3px;
+}
+
 
 /* body{
     background-image: url(/Users/apple/startup/header.jpg);
