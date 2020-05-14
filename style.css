@@ -23,6 +23,24 @@ button{
     justify-content: center;
 }
 
+.btn{
+    font-weight: 700;
+    border-radius: 300px;
+}
+
+/* .button-xl{
+    padding: 1rem 2rem;
+    
+} */
+
+
+.btn-info{
+    background-color: #F05F44;
+    padding: 1rem 2rem;
+    border-color: #F05F44;
+}
+
+
 /* body{
     background-image: url(/Users/apple/startup/header.jpg);
 } */
