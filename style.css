@@ -4,16 +4,18 @@ html {
     height: 100%;
     /*body and html will cover everything*/ 
     font-family: 'Montserrat', sans-serif;
+    background: url(header.jpg) no-repeat center center fixed;
+    background-size: cover ;
     }
-    html { 
+    /* html { 
         background: url(header.jpg) no-repeat center center fixed;
         background-size: cover ;
-    }
+    } */
 
 h1{
     
     font-size: 3rem;
-    color: BLACK;
+    color: #E2DBDB;
     /* text-transform: uppercase; */
     
 }
