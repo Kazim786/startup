@@ -53,6 +53,10 @@ hr{
     border-width: 3px;
 }
 
+.buffer{
+    height: 10rem;
+}
+
 
 /* body{
     background-image: url(/Users/apple/startup/header.jpg);
